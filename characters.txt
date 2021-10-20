@@ -2,3 +2,5 @@ char 4
 char 1
 char 3
 char 2
+char 5
+char 6
